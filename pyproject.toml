@@ -1,0 +1,14 @@
+[project]
+name = "stock-webapp"
+version = "0.1.0"
+description = "Its webapp build with streamlit that perform technical analysis on stocks"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cufflinks>=0.17.3",
+    "lxml>=5.4.0",
+    "pandas>=2.2.3",
+    "plotly>=6.1.0",
+    "streamlit>=1.45.1",
+    "yfinance>=0.2.61",
+]

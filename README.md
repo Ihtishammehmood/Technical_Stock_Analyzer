@@ -1,1 +1,0 @@
-# Technical_Stock_Analyzer
