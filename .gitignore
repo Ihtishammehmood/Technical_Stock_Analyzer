@@ -8,5 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 
 test.py
+agentic_workflow.py
+.streamlit/secrets.toml

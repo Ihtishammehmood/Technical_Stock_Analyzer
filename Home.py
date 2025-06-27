@@ -1,4 +1,6 @@
 import streamlit as st
+# from streamlit_navigation_bar import st_navbar
+
 import datetime
 from data_loader import get_sp500_components, load_data, convert_df_to_csv
 # from indicators import calculate_macd, calculate_atr, calculate_obv, calculate_stochastic
@@ -15,11 +17,12 @@ st.set_page_config(
     layout='wide'
 )
 
-st.title("Technical Stock Analysis")
+# st.title("Technical Stock Analysis by Fintelligence")
 st.write("""
     ### User manual
     * You can select any company from the S&P 500 constituents
     * Customize technical indicators from the sidebar
+    * Access the Most sophisticated Financial Intelligence Multi Agentic system, for advanced analysis
 """)
 st.markdown("---")
 st.caption("Author: Ihtisham M | [LinkedIn](https://www.linkedin.com/in/ihtishammehmood)")
