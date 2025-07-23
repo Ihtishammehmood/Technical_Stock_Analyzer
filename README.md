@@ -3,6 +3,8 @@
 
 ![image](https://github.com/user-attachments/assets/97cc93c4-e044-40b4-978c-52e6b81bea32)
 
+# [See Full YouTube Video Here](https://www.youtube.com/watch?v=E3bdXKeFvsU)
+
 
 ## Overview
 This is a Streamlit-based web application that performs technical analysis on stocks. The application allows users to select companies from the S&P 500 index, visualize stock price data, and apply various technical indicators to assist with stock analysis.
